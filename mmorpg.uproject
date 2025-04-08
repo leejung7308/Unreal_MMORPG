@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EB1A1C31-4C08-9BF8-6A83-AAABE165AA4E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "mmorpg",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
